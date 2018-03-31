@@ -5,4 +5,4 @@
   <li>Funciona como processo do Windows para que o usuario não perceba nenhuma mudança</li>
 </ul>
 
-<h2>Requer <a href="https://myaccount.google.com/lesssecureapps">autorização da GMail</a> para que a conexão ao Email seja realizada !</h2>
+<p>Requer <a href="https://myaccount.google.com/lesssecureapps">autorização da GMail</a> para que a conexão ao Email seja realizada !</p>
