@@ -17,6 +17,7 @@
 <h1></h1>
 <h3>Observações</h3>
 <ul>
-	<li><b>O computador automaticamente limpara o log ao te enviar pelo email.</b></li>
-	<li><b>Caso o computador não esteja conectado ae internet, ele aguarda conectar para que seja enviado o log.</b></li>
+	<li><b>O computador automaticamente limpara o log ao enviar pelo email.</b></li>
+	<li><b>Caso o computador não esteja conectado a internet, ele aguarda conectar para que seja enviado o log.</b></li>
+	<li><b>Programa criado no intuido de monitoramento, não para uso indevido</b></li>
 </ul>
