@@ -14,7 +14,7 @@
   <li>Compile e execute o arquivo taskhost.exe no local \bin\Debug.</li>
   <li>Configure o computador para que execute o programa ao ligar.</li>
 </ul>
-
+<h1></h1>
 <h3>Observações</h3>
 <ul>
 	<li><b>O computador automaticamente limpara o log ao te enviar pelo email.</b></li>
