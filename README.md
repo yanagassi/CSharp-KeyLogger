@@ -7,7 +7,7 @@
 
 <p><b>Requer <a href="https://myaccount.google.com/lesssecureapps">autorização da GMail</a> para que a conexão ao Email seja realizada !</b></p>
 
-<h1>Modo de usar</h1> 
+<h2>Modo de usar</h2> 
 <ul>
   <li>Na raiz do arquivo, vá no arquivo Email.cs.</li>
   <li>Modifique as linhas: 13, 14, 15, com seus dados.</li>
