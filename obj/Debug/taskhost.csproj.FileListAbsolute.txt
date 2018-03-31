@@ -1,0 +1,28 @@
+c:\users\warrio\documents\visual studio 2017\Projects\taskhost\taskhost\bin\Debug\taskhost.exe.config
+c:\users\warrio\documents\visual studio 2017\Projects\taskhost\taskhost\bin\Debug\taskhost.exe
+c:\users\warrio\documents\visual studio 2017\Projects\taskhost\taskhost\bin\Debug\taskhost.pdb
+c:\users\warrio\documents\visual studio 2017\Projects\taskhost\taskhost\obj\Debug\taskhost.Properties.Resources.resources
+c:\users\warrio\documents\visual studio 2017\Projects\taskhost\taskhost\obj\Debug\taskhost.csproj.GenerateResource.Cache
+c:\users\warrio\documents\visual studio 2017\Projects\taskhost\taskhost\obj\Debug\taskhost.exe
+c:\users\warrio\documents\visual studio 2017\Projects\taskhost\taskhost\obj\Debug\taskhost.pdb
+c:\users\warrio\documents\visual studio 2017\Projects\taskhost\taskhost\obj\Debug\taskhost.Form1.resources
+C:\Users\Warrio\Documents\Visual Studio 2017\Projects\taskhost\taskhost\obj\Debug\taskhost.csprojResolveAssemblyReference.cache
+C:\Users\Servidor01\Desktop\taskhost\taskhost\bin\Debug\taskhost.exe.config
+C:\Users\Servidor01\Desktop\taskhost\taskhost\bin\Debug\taskhost.exe
+C:\Users\Servidor01\Desktop\taskhost\taskhost\bin\Debug\taskhost.pdb
+C:\Users\Servidor01\Desktop\taskhost\taskhost\obj\Debug\taskhost.csprojResolveAssemblyReference.cache
+C:\Users\Servidor01\Desktop\taskhost\taskhost\obj\Debug\taskhost.Form1.resources
+C:\Users\Servidor01\Desktop\taskhost\taskhost\obj\Debug\taskhost.Properties.Resources.resources
+C:\Users\Servidor01\Desktop\taskhost\taskhost\obj\Debug\taskhost.csproj.GenerateResource.Cache
+C:\Users\Servidor01\Desktop\taskhost\taskhost\obj\Debug\taskhost.exe
+C:\Users\Servidor01\Desktop\taskhost\taskhost\obj\Debug\taskhost.pdb
+C:\Users\Yan\Desktop\keylogger-em-c--master\bin\Debug\taskhost.exe.config
+C:\Users\Yan\Desktop\keylogger-em-c--master\bin\Debug\taskhost.exe
+C:\Users\Yan\Desktop\keylogger-em-c--master\bin\Debug\taskhost.pdb
+C:\Users\Yan\Desktop\keylogger-em-c--master\obj\Debug\taskhost.csprojResolveAssemblyReference.cache
+C:\Users\Yan\Desktop\keylogger-em-c--master\obj\Debug\taskhost.Properties.Resources.resources
+C:\Users\Yan\Desktop\keylogger-em-c--master\obj\Debug\taskhost.csproj.GenerateResource.Cache
+C:\Users\Yan\Desktop\keylogger-em-c--master\obj\Debug\taskhost.csproj.CoreCompileInputs.cache
+C:\Users\Yan\Desktop\keylogger-em-c--master\obj\Debug\taskhost.exe
+C:\Users\Yan\Desktop\keylogger-em-c--master\obj\Debug\taskhost.pdb
+C:\Users\Yan\Desktop\keylogger-em-c--master\obj\Debug\taskhost.Principal.resources
