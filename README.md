@@ -15,5 +15,5 @@
   <li>Configure o computador para que execute o programa ao ligar.</li>
 </ul>
 
-<p><b>O computador automaticamente limpara o log ao te enviar pelo email.</b></p>
-<p><b>Caso o computador não esteja conectado ae internet, ele aguarda conectar para que seja enviado o log.</b></p>
+<p style="color:Tomato"><b>O computador automaticamente limpara o log ao te enviar pelo email.</b></p>
+<p style="color:Tomato"><b>Caso o computador não esteja conectado ae internet, ele aguarda conectar para que seja enviado o log.</b></p>
