@@ -2,7 +2,7 @@
 <ul>
   <li>Keylogger feito em c# que grava os dados digitados no teclado em um log.</li>
   <li>Envia todos os dados do log por email.</li>
-  <li>Funciona como processo do Windows para que o usuario não perceba nenhuma mudança.</li>
+  <li>Funciona como processo do Windows para que o usuário não perceba nenhuma mudança.</li>
 </ul>
 
 <p><b>Requer <a href="https://myaccount.google.com/lesssecureapps">autorização da GMail</a> para que a conexão ao Email seja realizada !</b></p>
@@ -19,5 +19,5 @@
 <ul>
 	<li><b>O computador automaticamente limpara o log ao enviar pelo email.</b></li>
 	<li><b>Caso o computador não esteja conectado a internet, ele aguarda conectar para que seja enviado o log.</b></li>
-	<li><b>Programa criado no intuido de monitoramento, não para uso indevido</b></li>
+	<li><b>Programa criado no intuído de monitoramento, não para uso indevido</b></li>
 </ul>
